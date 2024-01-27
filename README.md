@@ -2,15 +2,6 @@
 
 This is a Node.js backend for handling a shopping list using MongoDB.
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your-username/shopping-list-backend.git`
-2. Install dependencies: `yarn install`
-3. Create a `.env` file with the following environment variables:
-   - `PORT`: the port number for the server to listen on (default is 3000)
-   - `MONGODB_URI`: the URI for the MongoDB database
-4. Start the server: `yarn start`
-
 ## API Documentation
 
 ### Users
